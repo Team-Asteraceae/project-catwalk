@@ -21,3 +21,4 @@ it('displays all modules', () => {
   ('#review-tile'))
     .toBeInTheDocument();
 });
+
